@@ -1,3 +1,3 @@
 # Galax
 
-Version modificada del juego " Galaxia "
+Version modificada del juego " Galaxian "
